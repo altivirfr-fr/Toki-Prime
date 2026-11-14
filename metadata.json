@@ -1,0 +1,6 @@
+{
+  "name": "Toki Prime - AI Executive Assistant",
+  "description": "Assistente executivo inteligente de alto nível com comando de voz em tempo real, sincronização de agenda, inteligência proativa e gestão executiva de tempo.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
